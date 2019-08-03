@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 
 
-def nothing(_):
+def change_pixels(_):
     for y in range(img.shape[0]):
         for x in range(img.shape[1]):
             for c in range(img.shape[2]):
@@ -13,8 +13,8 @@ img = cv2.imread('rabbit.jpg')
 img = cv2.resize(img, (450, 500))
 new_image = np.zeros(img.shape, img.dtype)
 cv2.namedWindow("Trackbar")
-cv2.createTrackbar("Alpha", "Trackbar", 1, 3, nothing)
-cv2.createTrackbar("Beta", "Trackbar", 0, 100, nothing)
+cv2.createTrackbar("Alpha", "Trackbar", 1, 3, change_pixels)
+cv2.createTrackbar("Beta", "Trackbar", 0, 100, change_pixels)
 
 while True:
     cv2.imshow("Trackbar", new_image)
