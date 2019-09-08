@@ -1,0 +1,250 @@
+Movie Title:  1.      The Shawshank Redemption(1994) Movie Rating:  9.2
+Movie Title:  2.      The Godfather(1972) Movie Rating:  9.1
+Movie Title:  3.      The Godfather: Part II(1974) Movie Rating:  9.0
+Movie Title:  4.      The Dark Knight(2008) Movie Rating:  9.0
+Movie Title:  5.      12 Angry Men(1957) Movie Rating:  8.9
+Movie Title:  6.      Schindler's List(1993) Movie Rating:  8.9
+Movie Title:  7.      The Lord of the Rings: The Return of the King(2003) Movie Rating:  8.9
+Movie Title:  8.      Pulp Fiction(1994) Movie Rating:  8.9
+Movie Title:  9.      Il buono, il brutto, il cattivo(1966) Movie Rating:  8.8
+Movie Title:  10.      Fight Club(1999) Movie Rating:  8.8
+Movie Title:  11.      The Lord of the Rings: The Fellowship of the Ring(2001) Movie Rating:  8.8
+Movie Title:  12.      Forrest Gump(1994) Movie Rating:  8.8
+Movie Title:  13.      Inception(2010) Movie Rating:  8.7
+Movie Title:  14.      Star Wars: Episode V - The Empire Strikes Back(1980) Movie Rating:  8.7
+Movie Title:  15.      The Lord of the Rings: The Two Towers(2002) Movie Rating:  8.7
+Movie Title:  16.      The Matrix(1999) Movie Rating:  8.6
+Movie Title:  17.      One Flew Over the Cuckoo's Nest(1975) Movie Rating:  8.6
+Movie Title:  18.      Goodfellas(1990) Movie Rating:  8.6
+Movie Title:  19.      Shichinin no samurai(1954) Movie Rating:  8.6
+Movie Title:  20.      Se7en(1995) Movie Rating:  8.6
+Movie Title:  21.      Cidade de Deus(2002) Movie Rating:  8.6
+Movie Title:  22.      La vita è bella(1997) Movie Rating:  8.6
+Movie Title:  23.      The Silence of the Lambs(1991) Movie Rating:  8.6
+Movie Title:  24.      Star Wars(1977) Movie Rating:  8.6
+Movie Title:  25.      It's a Wonderful Life(1946) Movie Rating:  8.6
+Movie Title:  26.      Saving Private Ryan(1998) Movie Rating:  8.5
+Movie Title:  27.      Sen to Chihiro no kamikakushi(2001) Movie Rating:  8.5
+Movie Title:  28.      The Green Mile(1999) Movie Rating:  8.5
+Movie Title:  29.      Seppuku(1962) Movie Rating:  8.5
+Movie Title:  30.      Léon(1994) Movie Rating:  8.5
+Movie Title:  31.      Interstellar(2014) Movie Rating:  8.5
+Movie Title:  32.      The Usual Suspects(1995) Movie Rating:  8.5
+Movie Title:  33.      The Lion King(1994) Movie Rating:  8.5
+Movie Title:  34.      American History X(1998) Movie Rating:  8.5
+Movie Title:  35.      Avengers: Endgame(2019) Movie Rating:  8.5
+Movie Title:  36.      Back to the Future(1985) Movie Rating:  8.5
+Movie Title:  37.      The Pianist(2002) Movie Rating:  8.5
+Movie Title:  38.      Modern Times(1936) Movie Rating:  8.5
+Movie Title:  39.      Terminator 2: Judgment Day(1991) Movie Rating:  8.5
+Movie Title:  40.      The Intouchables(2011) Movie Rating:  8.5
+Movie Title:  41.      Psycho(1960) Movie Rating:  8.5
+Movie Title:  42.      Gladiator(2000) Movie Rating:  8.5
+Movie Title:  43.      City Lights(1931) Movie Rating:  8.5
+Movie Title:  44.      The Departed(2006) Movie Rating:  8.5
+Movie Title:  45.      Whiplash(2014) Movie Rating:  8.5
+Movie Title:  46.      Once Upon a Time in the West(1968) Movie Rating:  8.5
+Movie Title:  47.      The Prestige(2006) Movie Rating:  8.5
+Movie Title:  48.      Casablanca(1942) Movie Rating:  8.4
+Movie Title:  49.      Hotaru no haka(1988) Movie Rating:  8.4
+Movie Title:  50.      Rear Window(1954) Movie Rating:  8.4
+Movie Title:  51.      Nuovo Cinema Paradiso(1988) Movie Rating:  8.4
+Movie Title:  52.      Raiders of the Lost Ark(1981) Movie Rating:  8.4
+Movie Title:  53.      Alien(1979) Movie Rating:  8.4
+Movie Title:  54.      Memento(2000) Movie Rating:  8.4
+Movie Title:  55.      Apocalypse Now(1979) Movie Rating:  8.4
+Movie Title:  56.      The Great Dictator(1940) Movie Rating:  8.4
+Movie Title:  57.      The Lives of Others(2006) Movie Rating:  8.4
+Movie Title:  58.      Avengers: Infinity War(2018) Movie Rating:  8.4
+Movie Title:  59.      Django Unchained(2012) Movie Rating:  8.4
+Movie Title:  60.      Spider-Man: Into the Spider-Verse(2018) Movie Rating:  8.4
+Movie Title:  61.      The Shining(1980) Movie Rating:  8.4
+Movie Title:  62.      Paths of Glory(1957) Movie Rating:  8.4
+Movie Title:  63.      WALL·E(2008) Movie Rating:  8.4
+Movie Title:  64.      Sunset Blvd.(1950) Movie Rating:  8.4
+Movie Title:  65.      Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb(1964) Movie Rating:  8.4
+Movie Title:  66.      Mononoke-hime(1997) Movie Rating:  8.4
+Movie Title:  67.      Oldeuboi(2003) Movie Rating:  8.3
+Movie Title:  68.      Witness for the Prosecution(1957) Movie Rating:  8.3
+Movie Title:  69.      The Dark Knight Rises(2012) Movie Rating:  8.3
+Movie Title:  70.      Once Upon a Time in America(1984) Movie Rating:  8.3
+Movie Title:  71.      Aliens(1986) Movie Rating:  8.3
+Movie Title:  72.      Coco(2017) Movie Rating:  8.3
+Movie Title:  73.      American Beauty(1999) Movie Rating:  8.3
+Movie Title:  74.      Kimi no na wa.(2016) Movie Rating:  8.3
+Movie Title:  75.      Braveheart(1995) Movie Rating:  8.3
+Movie Title:  76.      Das Boot(1981) Movie Rating:  8.3
+Movie Title:  77.      3 Idiots(2009) Movie Rating:  8.3
+Movie Title:  78.      Taare Zameen Par(2007) Movie Rating:  8.3
+Movie Title:  79.      Star Wars: Episode VI - Return of the Jedi(1983) Movie Rating:  8.3
+Movie Title:  80.      Reservoir Dogs(1992) Movie Rating:  8.3
+Movie Title:  81.      Toy Story(1995) Movie Rating:  8.3
+Movie Title:  82.      Amadeus(1984) Movie Rating:  8.3
+Movie Title:  83.      Dangal(2016) Movie Rating:  8.3
+Movie Title:  84.      M - Eine Stadt sucht einen Mörder(1931) Movie Rating:  8.3
+Movie Title:  85.      Requiem for a Dream(2000) Movie Rating:  8.3
+Movie Title:  86.      Good Will Hunting(1997) Movie Rating:  8.3
+Movie Title:  87.      Inglourious Basterds(2009) Movie Rating:  8.3
+Movie Title:  88.      Vertigo(1958) Movie Rating:  8.3
+Movie Title:  89.      2001: A Space Odyssey(1968) Movie Rating:  8.3
+Movie Title:  90.      Eternal Sunshine of the Spotless Mind(2004) Movie Rating:  8.3
+Movie Title:  91.      Citizen Kane(1941) Movie Rating:  8.3
+Movie Title:  92.      Full Metal Jacket(1987) Movie Rating:  8.3
+Movie Title:  93.      Jagten(2012) Movie Rating:  8.3
+Movie Title:  94.      North by Northwest(1959) Movie Rating:  8.3
+Movie Title:  95.      A Clockwork Orange(1971) Movie Rating:  8.3
+Movie Title:  96.      Snatch(2000) Movie Rating:  8.3
+Movie Title:  97.      Amélie(2001) Movie Rating:  8.3
+Movie Title:  98.      The Kid(1921) Movie Rating:  8.2
+Movie Title:  99.      Ladri di biciclette(1948) Movie Rating:  8.2
+Movie Title:  100.      Scarface(1983) Movie Rating:  8.2
+Movie Title:  101.      Lawrence of Arabia(1962) Movie Rating:  8.2
+Movie Title:  102.      Singin' in the Rain(1952) Movie Rating:  8.2
+Movie Title:  103.      Toy Story 3(2010) Movie Rating:  8.2
+Movie Title:  104.      The Sting(1973) Movie Rating:  8.2
+Movie Title:  105.      Taxi Driver(1976) Movie Rating:  8.2
+Movie Title:  106.      Metropolis(1927) Movie Rating:  8.2
+Movie Title:  107.      Per qualche dollaro in più(1965) Movie Rating:  8.2
+Movie Title:  108.      Double Indemnity(1944) Movie Rating:  8.2
+Movie Title:  109.      Jodaeiye Nader az Simin(2011) Movie Rating:  8.2
+Movie Title:  110.      Ikiru(1952) Movie Rating:  8.2
+Movie Title:  111.      To Kill a Mockingbird(1962) Movie Rating:  8.2
+Movie Title:  112.      Indiana Jones and the Last Crusade(1989) Movie Rating:  8.2
+Movie Title:  113.      The Apartment(1960) Movie Rating:  8.2
+Movie Title:  114.      Up(2009) Movie Rating:  8.2
+Movie Title:  115.      L.A. Confidential(1997) Movie Rating:  8.2
+Movie Title:  116.      Monty Python and the Holy Grail(1975) Movie Rating:  8.2
+Movie Title:  117.      Incendies(2010) Movie Rating:  8.2
+Movie Title:  118.      Capharnaüm(2018) Movie Rating:  8.2
+Movie Title:  119.      Heat(1995) Movie Rating:  8.2
+Movie Title:  120.      Rashômon(1950) Movie Rating:  8.2
+Movie Title:  121.      Yôjinbô(1961) Movie Rating:  8.2
+Movie Title:  122.      Batman Begins(2005) Movie Rating:  8.2
+Movie Title:  123.      Die Hard(1988) Movie Rating:  8.2
+Movie Title:  124.      Green Book(2018) Movie Rating:  8.2
+Movie Title:  125.      Unforgiven(1992) Movie Rating:  8.2
+Movie Title:  126.      Der Untergang(2004) Movie Rating:  8.2
+Movie Title:  127.      Bacheha-Ye aseman(1997) Movie Rating:  8.2
+Movie Title:  128.      Some Like It Hot(1959) Movie Rating:  8.2
+Movie Title:  129.      Hauru no ugoku shiro(2004) Movie Rating:  8.2
+Movie Title:  130.      The Great Escape(1963) Movie Rating:  8.2
+Movie Title:  131.      Tonari no Totoro(1988) Movie Rating:  8.2
+Movie Title:  132.      All About Eve(1950) Movie Rating:  8.2
+Movie Title:  133.      A Beautiful Mind(2001) Movie Rating:  8.2
+Movie Title:  134.      Ran(1985) Movie Rating:  8.2
+Movie Title:  135.      Pan's Labyrinth(2006) Movie Rating:  8.2
+Movie Title:  136.      Casino(1995) Movie Rating:  8.2
+Movie Title:  137.      El secreto de sus ojos(2009) Movie Rating:  8.2
+Movie Title:  138.      Idi i smotri(1985) Movie Rating:  8.2
+Movie Title:  139.      Raging Bull(1980) Movie Rating:  8.2
+Movie Title:  140.      Lock, Stock and Two Smoking Barrels(1998) Movie Rating:  8.2
+Movie Title:  141.      Babam ve Oglum(2005) Movie Rating:  8.2
+Movie Title:  142.      The Treasure of the Sierra Madre(1948) Movie Rating:  8.1
+Movie Title:  143.      The Wolf of Wall Street(2013) Movie Rating:  8.1
+Movie Title:  144.      Judgment at Nuremberg(1961) Movie Rating:  8.1
+Movie Title:  145.      Three Billboards Outside Ebbing, Missouri(2017) Movie Rating:  8.1
+Movie Title:  146.      Chinatown(1974) Movie Rating:  8.1
+Movie Title:  147.      The Gold Rush(1925) Movie Rating:  8.1
+Movie Title:  148.      Inside Out(2015) Movie Rating:  8.1
+Movie Title:  149.      Dial M for Murder(1954) Movie Rating:  8.1
+Movie Title:  150.      V for Vendetta(2005) Movie Rating:  8.1
+Movie Title:  151.      Det sjunde inseglet(1957) Movie Rating:  8.1
+Movie Title:  152.      Warrior(2011) Movie Rating:  8.1
+Movie Title:  153.      There Will Be Blood(2007) Movie Rating:  8.1
+Movie Title:  154.      Room(2015) Movie Rating:  8.1
+Movie Title:  155.      Trainspotting(1996) Movie Rating:  8.1
+Movie Title:  156.      No Country for Old Men(2007) Movie Rating:  8.1
+Movie Title:  157.      The Elephant Man(1980) Movie Rating:  8.1
+Movie Title:  158.      Andhadhun(2018) Movie Rating:  8.1
+Movie Title:  159.      The Sixth Sense(1999) Movie Rating:  8.1
+Movie Title:  160.      Shutter Island(2010) Movie Rating:  8.1
+Movie Title:  161.      The Thing(1982) Movie Rating:  8.1
+Movie Title:  162.      The Bridge on the River Kwai(1957) Movie Rating:  8.1
+Movie Title:  163.      Gone with the Wind(1939) Movie Rating:  8.1
+Movie Title:  164.      Eskiya(1996) Movie Rating:  8.1
+Movie Title:  165.      The Third Man(1949) Movie Rating:  8.1
+Movie Title:  166.      On the Waterfront(1954) Movie Rating:  8.1
+Movie Title:  167.      Blade Runner(1982) Movie Rating:  8.1
+Movie Title:  168.      Smultronstället(1957) Movie Rating:  8.1
+Movie Title:  169.      Finding Nemo(2003) Movie Rating:  8.1
+Movie Title:  170.      Jurassic Park(1993) Movie Rating:  8.1
+Movie Title:  171.      Gran Torino(2008) Movie Rating:  8.1
+Movie Title:  172.      Fargo(1996) Movie Rating:  8.1
+Movie Title:  173.      Kill Bill: Vol. 1(2003) Movie Rating:  8.1
+Movie Title:  174.      The Deer Hunter(1978) Movie Rating:  8.1
+Movie Title:  175.      Tôkyô monogatari(1953) Movie Rating:  8.1
+Movie Title:  176.      The Big Lebowski(1998) Movie Rating:  8.1
+Movie Title:  177.      Stalker(1979) Movie Rating:  8.1
+Movie Title:  178.      The Truman Show(1998) Movie Rating:  8.1
+Movie Title:  179.      Relatos salvajes(2014) Movie Rating:  8.1
+Movie Title:  180.      Mary and Max(2009) Movie Rating:  8.1
+Movie Title:  181.      Hacksaw Ridge(2016) Movie Rating:  8.1
+Movie Title:  182.      Gone Girl(2014) Movie Rating:  8.1
+Movie Title:  183.      In the Name of the Father(1993) Movie Rating:  8.1
+Movie Title:  184.      Sherlock Jr.(1924) Movie Rating:  8.1
+Movie Title:  185.      The General(1926) Movie Rating:  8.1
+Movie Title:  186.      How to Train Your Dragon(2010) Movie Rating:  8.1
+Movie Title:  187.      Mr. Smith Goes to Washington(1939) Movie Rating:  8.1
+Movie Title:  188.      The Grand Budapest Hotel(2014) Movie Rating:  8.1
+Movie Title:  189.      Salinui chueok(2003) Movie Rating:  8.1
+Movie Title:  190.      Persona(1966) Movie Rating:  8.1
+Movie Title:  191.      Before Sunrise(1995) Movie Rating:  8.1
+Movie Title:  192.      Catch Me If You Can(2002) Movie Rating:  8.1
+Movie Title:  193.      Into the Wild(2007) Movie Rating:  8.1
+Movie Title:  194.      Cool Hand Luke(1967) Movie Rating:  8.1
+Movie Title:  195.      Le salaire de la peur(1953) Movie Rating:  8.1
+Movie Title:  196.      12 Years a Slave(2013) Movie Rating:  8.1
+Movie Title:  197.      Network(1976) Movie Rating:  8.1
+Movie Title:  198.      La passion de Jeanne d'Arc(1928) Movie Rating:  8.1
+Movie Title:  199.      Life of Brian(1979) Movie Rating:  8.1
+Movie Title:  200.      Prisoners(2013) Movie Rating:  8.1
+Movie Title:  201.      Andrei Rublev(1966) Movie Rating:  8.1
+Movie Title:  202.      Rang De Basanti(2006) Movie Rating:  8.1
+Movie Title:  203.      Stand by Me(1986) Movie Rating:  8.1
+Movie Title:  204.      Mad Max: Fury Road(2015) Movie Rating:  8.1
+Movie Title:  205.      Platoon(1986) Movie Rating:  8.1
+Movie Title:  206.      Rush(2013) Movie Rating:  8.1
+Movie Title:  207.      Toy Story 4(2019) Movie Rating:  8.1
+Movie Title:  208.      Million Dollar Baby(2004) Movie Rating:  8.1
+Movie Title:  209.      Hachi: A Dog's Tale(2009) Movie Rating:  8.1
+Movie Title:  210.      Logan(2017) Movie Rating:  8.1
+Movie Title:  211.      Ben-Hur(1959) Movie Rating:  8.0
+Movie Title:  212.      Barry Lyndon(1975) Movie Rating:  8.0
+Movie Title:  213.      Hotel Rwanda(2004) Movie Rating:  8.0
+Movie Title:  214.      Amores perros(2000) Movie Rating:  8.0
+Movie Title:  215.      Kaze no tani no Naushika(1984) Movie Rating:  8.0
+Movie Title:  216.      Spotlight(2015) Movie Rating:  8.0
+Movie Title:  217.      Harry Potter and the Deathly Hallows: Part 2(2011) Movie Rating:  8.0
+Movie Title:  218.      Les quatre cents coups(1959) Movie Rating:  8.0
+Movie Title:  219.      Dead Poets Society(1989) Movie Rating:  8.0
+Movie Title:  220.      Rebecca(1940) Movie Rating:  8.0
+Movie Title:  221.      Rocky(1976) Movie Rating:  8.0
+Movie Title:  222.      Gangs of Wasseypur(2012) Movie Rating:  8.0
+Movie Title:  223.      Monsters, Inc.(2001) Movie Rating:  8.0
+Movie Title:  224.      Lagaan: Once Upon a Time in India(2001) Movie Rating:  8.0
+Movie Title:  225.      It Happened One Night(1934) Movie Rating:  8.0
+Movie Title:  226.      La haine(1995) Movie Rating:  8.0
+Movie Title:  227.      Ah-ga-ssi(2016) Movie Rating:  8.0
+Movie Title:  228.      El ángel exterminador(1962) Movie Rating:  8.0
+Movie Title:  229.      Munna Bhai M.B.B.S.(2003) Movie Rating:  8.0
+Movie Title:  230.      The Princess Bride(1987) Movie Rating:  8.0
+Movie Title:  231.      PK(2014) Movie Rating:  8.0
+Movie Title:  232.      Swades: We, the People(2004) Movie Rating:  8.0
+Movie Title:  233.      Butch Cassidy and the Sundance Kid(1969) Movie Rating:  8.0
+Movie Title:  234.      The Help(2011) Movie Rating:  8.0
+Movie Title:  235.      Drishyam(2015) Movie Rating:  8.0
+Movie Title:  236.      Before Sunset(2004) Movie Rating:  8.0
+Movie Title:  237.      Paris, Texas(1984) Movie Rating:  8.0
+Movie Title:  238.      The Terminator(1984) Movie Rating:  8.0
+Movie Title:  239.      Akira(1988) Movie Rating:  8.0
+Movie Title:  240.      Faa yeung nin wa(2000) Movie Rating:  8.0
+Movie Title:  241.      A Wednesday(2008) Movie Rating:  8.0
+Movie Title:  242.      Mou gaan dou(2002) Movie Rating:  8.0
+Movie Title:  243.      Guardians of the Galaxy(2014) Movie Rating:  8.0
+Movie Title:  244.      La battaglia di Algeri(1966) Movie Rating:  8.0
+Movie Title:  245.      Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni(1997) Movie Rating:  8.0
+Movie Title:  246.      La leggenda del pianista sull'oceano(1998) Movie Rating:  8.0
+Movie Title:  247.      Kis Uykusu(2014) Movie Rating:  8.0
+Movie Title:  248.      Sholay(1975) Movie Rating:  8.0
+Movie Title:  249.      Aladdin(1992) Movie Rating:  8.0
+Movie Title:  250.      Solaris(1972) Movie Rating:  8.0
