@@ -38,4 +38,4 @@ cv2.imshow("image", image)
 cv2.imshow("dom_colors", dom_colors)
 cv2.waitKey()
 
-cv2.imwrite("data/dom_colors_" + image_name[0] + ".jpg", dom_colors)
+cv2.imwrite("data/dom_colors_" + image_name[0], dom_colors * 255.0)
